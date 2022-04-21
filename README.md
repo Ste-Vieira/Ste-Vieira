@@ -1,12 +1,19 @@
-### Stephanie, Hi there 👋
+## Hey there 👋
 
-#### Um pouco sobre mim
+I am Akshit Garg, an enthusiast currently hacking on some of my projects.
 
-1. Vieira
-1. Estudande de programação
-1. Quero ser...
-  1. Frontend
-  1. Backend
-  
-  ---
-  
+I love to work with cryptography, interpreters, compilers and distributed
+systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
+[ReScript](https://rescript-lang.org), [Golang](https://golang.org), JavaScript,
+TypeScript and Dart amongst others. Currently hacking on wasm, retro systems and
+Phoenix LiveView (spoiler alert, I love it!)
+
+As you might have guessed, I love lesser known programming languages and
+systems.
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ste-vieira"
+    alt="gargakshit"
+  />
+</p>
